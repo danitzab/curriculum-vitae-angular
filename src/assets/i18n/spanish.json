@@ -1,7 +1,7 @@
 {
   "profile": {
-    "name": "Leonardo Solano Arguello",
-    "title": "Full Stack Developer"
+    "name": "Danitza Luz Bonilla Fandiño",
+    "title": "Frontend Developer"
   },
   "contact": {
     "title": "CONTACTO",
@@ -12,28 +12,23 @@
       },
       {
         "icon": "icon-mobile",
-        "value": "(+57) 3017478385",
-        "href": "tel:+573017478385"
+        "value": "(+57) 3108901102",
+        "href": "tel:+573108901102"
       },
       {
         "icon": "icon-mail2",
-        "value": "lsolano4@gmail.com",
-        "href": "mailto:lsolano4@gmail.com"
+        "value": "danitzabonilla@gmail.com",
+        "href": "mailto:danitzabonilla@gmail.com"
       },
       {
         "icon": "icon-linkedin",
-        "value": "linkedin.com/in/lsolano2707",
-        "href": "https://www.linkedin.com/in/lsolano2707/"
-      },
-      {
-        "icon": "icon-link",
-        "value": "www.leonardosolano.com",
-        "href": "https://www.leonardosolano.com"
+        "value": "linkedin.com/in/danitzabonilla",
+        "href": "https://www.linkedin.com/in/danitzabonilla/"
       },
       {
         "icon": "icon-github",
-        "value": "github.com/lsolano2707",
-        "href": "https://github.com/lsolano2707"
+        "value": "github.com/danitzab",
+        "href": "https://github.com/danitzab"
       }
     ]
   },
@@ -45,23 +40,23 @@
         "items": [
           {
             "name": "Vue Js",
-            "scale": 5
-          },
-          {
-            "name": "React",
-            "scale": 3
+            "scale": 4
           },
           {
             "name": "TypeScript",
+            "scale": 3
+          },
+          {
+            "name": "JavaScript",
             "scale": 4
           },
           {
-            "name": "Javascript",
+            "name": "TailwindCSS",
             "scale": 4
           },
           {
-            "name": "Tailwindcss",
-            "scale": 5
+            "name": "Bulma",
+            "scale": 4
           }
         ]
       },
@@ -69,12 +64,8 @@
         "title": "Back-End",
         "items": [
           {
-            "name": "Nodejs",
-            "scale": 4
-          },
-          {
-            "name": "Nest Js",
-            "scale": 4
+            "name": "Node.js",
+            "scale": 3
           }
         ]
       },
@@ -83,27 +74,6 @@
         "items": [
           {
             "name": "REST",
-            "scale": 5
-          },
-          {
-            "name": "GraphQL",
-            "scale": 2
-          }
-        ]
-      },
-      {
-        "title": "Bases de Datos",
-        "items": [
-          {
-            "name": "MongoDB",
-            "scale": 4
-          },
-          {
-            "name": "MySQL",
-            "scale": 4
-          },
-          {
-            "name": "Postgres",
             "scale": 4
           }
         ]
@@ -113,11 +83,7 @@
         "items": [
           {
             "name": "Jest",
-            "scale": 4
-          },
-          {
-            "name": "Cypress",
-            "scale": 4
+            "scale": 3
           }
         ]
       },
@@ -126,6 +92,10 @@
         "items": [
           {
             "name": "AWS",
+            "scale": 3
+          },
+          {
+            "name": "Azure",
             "scale": 3
           }
         ]
@@ -138,18 +108,6 @@
             "scale": 5
           },
           {
-            "name": "Docker",
-            "scale": 4
-          },
-          {
-            "name": "Kubernetes",
-            "scale": 3
-          },
-          {
-            "name": "Serverless",
-            "scale": 4
-          },
-          {
             "name": "Git",
             "scale": 4
           }
@@ -158,102 +116,118 @@
     ]
   },
   "languages": {
-    "title": "LANGUAGES",
+    "title": "IDIOMAS",
     "items": [
       {
         "name": "Español",
         "scale": 5
       },
       {
-        "name": "Ingles",
-        "scale": 3
+        "name": "Inglés",
+        "scale": 2
       }
     ]
   },
   "summary": {
     "title": "PERFIL",
-    "description": "Desarrollador Full Stack con más de 7 años de experiencia en el desarrollo de software, apasionado por la programación y las nuevas tecnologías."
+    "description": "Frontend Developer en VueJs, con 4 años de experiencia, apasionada por la programación y las nuevas tecnologías."
   },
   "workExperience": {
     "title": "EXPERIENCIA LABORAL",
     "items": [
       {
-        "company": "Perficient ",
-        "companyUrl": "https://www.perficient.com/",
-        "companyDescripcion": "Perficient is expanding its software development and delivery services with the acquisition of SMEDIX, Inc. a healthcare software engineering firm based in San Diego, California, with a location in Romania. We’re thrilled to welcome nearly 175 new colleagues to the Perficient team!",
-        "position": "Full Stack Developer",
+        "company": "Viuboo",
+        "companyUrl": "https://www.viuboo.com/",
+        "companyDescripcion": "Viuboo es una startup",
+        "position": "Desarrolladora Frontend Semi Senior",
         "location": "Medellín, Antioquia",
-        "startDate": "Ago 2019",
+        "startDate": "Sep 2023",
         "endDate": "Actualmente",
-        "descripcion": "Desarrollador Full Stack para un cliente internacional.",
+        "descripcion": "Viuboo es una startup innovadora que se enfoca en la preservación digital de momentos significativos de la vida.",
         "responsibilities": [
-          "Desarrollar y mantener los nuevos releases utilizando angular 9 y Nodejs.",
+          "Desarrollar y mantener los nuevos releases utilizando VueJs y Node.js.",
           "Definir la estructura y los componentes del proyecto, asegurándose de que sean reutilizables.",
-          "Construir nuevos microservicios utilizando express.",
           "Implementar pruebas unitarias usando Jest.",
-          "Desplegar en AWS usando CI and CD con Jenkins."
+          "Desplegar en AWS."
         ]
       },
       {
-        "company": "Bancolombia",
-        "companyUrl": "https://www.grupobancolombia.com/",
-        "position": "Desarrollador Full Stack",
+        "company": "Masivian a Route Mobile Company",
+        "companyUrl": "https://masiv.com/",
+        "position": "Desarrolladora Frontend Semi Senior I",
         "location": "Medellín, Antioquia",
-        "startDate": "Mar 2018",
-        "endDate": "Ago 2019",
-        "descripcion": "Bancolombia es un grupo financiero internacional líder en Colombia con más de 20,000 empleados en todo el mundo",
+        "startDate": "Enero 2021",
+        "endDate": "Sep 2024",
+        "descripcion": "Masivian es una empresa que te permite orquestar y automatizar el envío de comunicaciones masivas y conversaciones omnicanales.",
         "responsibilities": [
-          "Desarrollar una aplicación basada en Angular 7 para nuevos clientes.",
-          "Construir una nueva API usando java y Sprint Boot Framework.",
-          "Diseñe la arquitectura de los nuevos microservicios.",
-          "Diseñar el modelo de base de datos usando MySQL.",
-          "Implementar pruebas unitarias usando JUnit.",
-          "Desplegar en AWS usando CI and CD."
+          "Desarrollar frontend en Vue, mantener las nuevas funcionalidades para el área de Ciencia de Datos.",
+          "Consumo de APIs.",
+          "Migración a microfrontend.",
+          "Implementar pruebas unitarias usando Jest.",
+          "Desplegar en AWS."
         ]
-      },
+      }
+    ]
+  },
+  "projects": {
+    "title": "PROYECTOS PERSONALES",
+    "items": [
       {
-        "company": "Ingeneo S.A.S",
-        "companyUrl": "https://ingeneo.com.co/",
-        "position": "Desarrollador Senior",
+        "name": "Blucoding",
+        "url": "https://blucoding.vercel.app/",
+        "startDate": "Junio 2020",
+        "endDate": "Actual",
+        "descripcion": "Plataforma en desarrollo que busca reforzar el conocimiento de todas las personas que quieren adentrarse en el mundo de la programación.",
+        "technologies": "React - TailwindCSS - Contentful - Vercel",
+        "responsibilities": [
+          "Desarrollo y mantenimiento de nuevas versiones utilizando React y Contentful.",
+          "Definir la estructura y componentes del proyecto, asegurando su reutilización.",
+          "Desplegado en Vercel."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "EDUCACIÓN",
+    "items": [
+      {
+        "degree": "Arquitecta",
+        "institution": "Universidad del Atlántico",
+        "location": "Barranquilla, Atlántico",
+        "startDate": "2012",
+        "endDate": "2017"
+      }
+    ]
+  },
+  "certification": {
+    "title": "CERTIFICACIONES",
+    "items": [
+      {
+        "degree": "Front-End Avanzado en React",
+        "institution": "Acámica",
         "location": "Medellín, Antioquia",
-        "startDate": "Jun 2017",
-        "endDate": "Mar 2018",
-        "descripcion": "Ingeneo es una empresa formada por personas jóvenes y emprendedoras, con el objetivo de proporcionar productos y servicios de ingeniería informática con tecnología de punta",
-        "responsibilities": [
-          "Desarrollar un nuevo módulo Marketplace usando JSP.",
-          "Construir y exponer nuevos servicios REST usando java 8.",
-          "Desarrollar y mantener las nuevas funcionalidades."
-        ]
+        "date": "2020"
       },
       {
-        "company": "Pragma S.A.",
-        "companyUrl": "https://www.pragma.com.co/",
-        "position": "Ingeniero de Proyectos",
+        "degree": "Scrum Master",
+        "institution": "GlobalTI",
         "location": "Medellín, Antioquia",
-        "startDate": "Ago 2014",
-        "endDate": "Jun 2017",
-        "descripcion": "Pragma es un equipo de más de 380 personas, presente en más de 5 países, con más de 23 años en el mercado",
-        "responsibilities": [
-          "Construir y exponer nuevos servicios REST usando java 8.",
-          "Consumir servicios SOAP internos y externos.",
-          "Desarrollar y mantener los nuevos releases."
-        ]
+        "date": "Marzo 2019"
+      }
+    ]
+  },
+  "references": {
+    "title": "REFERENCIAS",
+    "items": [
+      {
+        "name": "Leonardo Solano",
+        "degree": "Frontend Developer",
+        "phone": "(+57) 3017478385"
       },
       {
-        "company": "Universidad Metropolitana",
-        "companyUrl": "http://www.unimetro.edu.co/",
-        "position": "Desarrollador Full Stack",
-        "location": "Barranquilla, Atlantico",
-        "startDate": "Ago 2012",
-        "endDate": "Ago 2014",
-        "descripcion": "Universidad Metropolitana es una institución de educación superior especializada en ciencias de la salud",
-        "responsibilities": [
-          "Liderar el departamento de TI durante 3 meses.",
-          "Atender nuevos requerimientos y administrar las tareas al equipo.",
-          "Desarrollar nuevos modulos utilizando JSP y java 8.",
-          "Diseñar los nuevos modelos de base de datos en Oracle 11c.",
-          "Optimizar las consultas de poco performance en la base de datos Oracle 11c."
-        ]
+        "name": "Ada Luz Bonilla",
+        "degree": "Teóloga",
+        "phone": "(+57) 3016147275"
       }
     ]
   }

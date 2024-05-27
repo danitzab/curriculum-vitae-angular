@@ -249,6 +249,20 @@
     "title": "PERSONAL PROJECTS",
     "items": [
       {
+        "name": "Blucoding",
+        "url": "https://blucoding.vercel.app/",
+        "startDate": "Junio 2020",
+        "endDate": "Actual",
+        "descripcion": "Plataforma en desarrollo que busca reforzar el conocimiento de todas las personas que quieren adentrarse en el mundo de la programación.",
+        "technologies": "React - Tailwindcss - Contentful - Vercel",
+        "responsibilities": [
+          "Desarrollo y mantenimiento de nuevas versiones utilizando React y Contentful.",
+          "Definir la estructura y componentes del proyecto, asegurando su reutilización.",
+          "Organizar la documentación.",
+          "Desplegado en Vercel."
+        ]
+      },
+      {
         "name": "Blucoding ",
         "url": "https://blucoding.vercel.app/",
         "startDate": "Jun 2020",
